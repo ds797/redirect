@@ -4,13 +4,14 @@
 
 <main>
 	<h1>Redirecting...</h1>
+	<h3>Tasks has become Advance - click the link below if you aren't automatically redirected.</h3>
+	<a href="https://ds-advance.pages.dev">Advance</a>
 </main>
 
 <style>
 	main {
 		text-align: center;
 		padding: 1em;
-		max-width: 240px;
 		margin: 0 auto;
 	}
 
